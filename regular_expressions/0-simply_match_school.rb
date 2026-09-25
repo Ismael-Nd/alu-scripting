@@ -1,6 +1,3 @@
-#!/usr/bin/env ruby 
+#!/usr/bin/env ruby
 
-arg = ARGV[0]
-mathces = arg.scan(/School/)
-puts mathces.join
-
+puts ARGV[0].scan(/School/).join
