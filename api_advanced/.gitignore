@@ -1,0 +1,7 @@
+# Local test runners
+*-main.py
+
+# Python bytecode and virtual environment
+__pycache__/
+*.py[cod]
+.venv/
